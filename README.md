@@ -20,7 +20,7 @@ This project demonstrates the internal steps of the AES algorithm — including 
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Clone the Repository
 
@@ -56,7 +56,7 @@ Encrypted (hex): 8a2b1f4e9cd67320f5e61e9bb9a7b3c1
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 ### AES Steps Implemented
 
@@ -72,7 +72,7 @@ Each 16-byte plaintext block undergoes **10 rounds** of transformations to produ
 
 ---
 
-## 🧩 Example Code Snippet
+## Example Code Snippet
 
 ```python
 from encrypt import encrypt_block
@@ -86,7 +86,7 @@ print(ciphertext.hex())
 
 ---
 
-## 🧱 Educational Purpose
+## Educational Purpose
 
 ⚠️ This project is for **educational and demonstration purposes only**.
 It is **not optimized** for performance or security in production environments.
@@ -98,8 +98,3 @@ For real-world cryptography, use vetted libraries like `cryptography` or `PyCryp
 [My Website](https://bvincdev.github.io/Portfolio/)
 [GitHub Profile](https://github.com/yourusername)
 
----
-
-## 📝 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
